@@ -2,7 +2,7 @@
 Module 9
 
 Data Modeling
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
+1. Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
 Data Engineering
 1. Use the provided information to create a table schema for each of the six CSV files. 
