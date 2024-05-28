@@ -1,5 +1,6 @@
 # sql-challenge
 Module 9
+
 Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
 
